@@ -30,7 +30,10 @@ Each development lives in its own sub-folder named after its main object (for ex
 
 ### SAP-Technical
 
-*No developments yet.*
+| Development | Type | Description |
+| --- | --- | --- |
+| [`Z_REPO_KNOWLEDGE_EXPORT`](SAP-Technical/Z_REPO_KNOWLEDGE_EXPORT/) | Executable report | Exports SAP development packages as a Markdown knowledge base packed into ZIP files |
+| [`ZOO_CLASS_EXTRACTOR`](SAP-Technical/ZOO_CLASS_EXTRACTOR/) | Executable report | Extracts metadata, signatures and source of global classes / interfaces |
 
 ### SAP-UI5
 

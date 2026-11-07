@@ -5,4 +5,7 @@ reusable classes and function modules that are not specific to MOC.
 
 Add each development as its own sub-folder named after its main object, with a `README.md`.
 
-*No developments yet.*
+| Development | Type | Description |
+| --- | --- | --- |
+| [`Z_REPO_KNOWLEDGE_EXPORT`](Z_REPO_KNOWLEDGE_EXPORT/) | Executable report | Exports SAP development packages as a Markdown knowledge base packed into ZIP files |
+| [`ZOO_CLASS_EXTRACTOR`](ZOO_CLASS_EXTRACTOR/) | Executable report | Extracts metadata, signatures and source of global classes / interfaces |
