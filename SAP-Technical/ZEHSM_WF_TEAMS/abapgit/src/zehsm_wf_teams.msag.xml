@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Teams approval integration</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>User &amp;1 does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>No active SAP user found for e-mail &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>E-mail &amp;1 is assigned to more than one SAP user</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Provide UserId or Email</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Work item &amp;1 is not open in the inbox of user &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Work item &amp;1 has no decision that can be executed from Teams</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Decision &amp;1 is not valid for work item &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>Comment is mandatory for decision &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Comment could not be saved for work item &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Decision for work item &amp;1 failed: &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Work item &amp;1 completed with decision &amp;2 by &amp;3</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Work item &amp;1 marked as sent for user &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZEHSM_WF_TEAMS</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Work item &amp;1 not found</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
